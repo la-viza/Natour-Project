@@ -1230,6 +1230,10 @@ body {
   margin-bottom: 6rem;
 }
 
+.footer__logo img {
+  padding-bottom: 5rem;
+}
+
 .footer__navigation {
   border-top: 1px solid #777;
   padding-top: 2rem;
